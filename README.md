@@ -11,7 +11,7 @@ In order to help the travelers making better decision on future books in Boston 
 3. What are the top 10 features that influence the listing price? 
 
 ## File Descriptions
-There is one notebook for the analysis of the three questions list in previous section. Markdown cells were used to distinct different process for the analysis. Necessary comments were also provide for better understanding of the notebook
+There is one notebook for the analysis of the three questions list in previous section. Markdown cells were used to distinct different process for the analysis. Necessary comments were also provide for better understanding of the notebook.
 
 ## Results
 The three questions were answered perferctly. 
