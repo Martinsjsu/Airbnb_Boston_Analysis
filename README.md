@@ -1,6 +1,6 @@
 # Airbnb_Boston_Analysis
 
-## installation
+## Installation
 Must runing with Python 3 with libraries of numpy, pandas, seaborn, matplotlib and sklearn.
 
 ## Porject Motiviation
